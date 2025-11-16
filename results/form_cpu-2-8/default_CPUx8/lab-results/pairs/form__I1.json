@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "base": "http://localhost:8000",
+    "reps": 15,
+    "network": {
+      "latencyMs": 150,
+      "downloadMbps": 1.5,
+      "uploadMbps": 0.75
+    },
+    "cpuThrottlingRate": 8,
+    "timestamp": "2025-10-21T08:56:14.420Z"
+  },
+  "scenario": "form",
+  "variant": "I1",
+  "runs": [
+    {
+      "rep": 1,
+      "INP": 4504,
+      "INP_W": 3.600000023841858,
+      "INP_H": 4474.899999976158,
+      "INP_R": 25.5,
+      "LoAFsum": 8982.199999988079,
+      "LoAFcount": 3,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 2,
+      "INP": 4560,
+      "INP_W": 3.699999988079071,
+      "INP_H": 4524.400000035763,
+      "INP_R": 31.899999976158142,
+      "LoAFsum": 9069.899999976158,
+      "LoAFcount": 3,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 3,
+      "INP": 4664,
+      "INP_W": 5.599999964237213,
+      "INP_H": 4631.100000023842,
+      "INP_R": 27.30000001192093,
+      "LoAFsum": 8606,
+      "LoAFcount": 3,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 4,
+      "INP": 4536,
+      "INP_W": 2.600000023841858,
+      "INP_H": 4505.399999976158,
+      "INP_R": 28,
+      "LoAFsum": 9257.199999988079,
+      "LoAFcount": 3,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 5,
+      "INP": 4520,
+      "INP_W": 3.100000023841858,
+      "INP_H": 0.10000002384185791,
+      "INP_R": 4516.799999952316,
+      "LoAFsum": 9233.5,
+      "LoAFcount": 3,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 6,
+      "INP": 4488,
+      "INP_W": 2.199999988079071,
+      "INP_H": 4458.900000035763,
+      "INP_R": 26.899999976158142,
+      "LoAFsum": 9053.599999964237,
+      "LoAFcount": 3,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 7,
+      "INP": 4496,
+      "INP_W": 3.300000011920929,
+      "INP_H": 4469.800000011921,
+      "INP_R": 22.899999976158142,
+      "LoAFsum": 9088.200000047684,
+      "LoAFcount": 3,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 8,
+      "INP": 4736,
+      "INP_W": 2.800000011920929,
+      "INP_H": 4702.899999976158,
+      "INP_R": 30.30000001192093,
+      "LoAFsum": 9285.500000059605,
+      "LoAFcount": 3,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 9,
+      "INP": 4464,
+      "INP_W": 1.5999999642372131,
+      "INP_H": 4439.200000047684,
+      "INP_R": 23.19999998807907,
+      "LoAFsum": 9083.299999892712,
+      "LoAFcount": 3,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 10,
+      "INP": 4472,
+      "INP_W": 2.200000047683716,
+      "INP_H": 4443.5,
+      "INP_R": 26.299999952316284,
+      "LoAFsum": 8932,
+      "LoAFcount": 3,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 11,
+      "INP": 4568,
+      "INP_W": 2.699999988079071,
+      "INP_H": 4533.900000035763,
+      "INP_R": 31.399999976158142,
+      "LoAFsum": 9218.800000071526,
+      "LoAFcount": 3,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 12,
+      "INP": 4576,
+      "INP_W": 2.600000023841858,
+      "INP_H": 0,
+      "INP_R": 4573.399999976158,
+      "LoAFsum": 9343.800000011921,
+      "LoAFcount": 3,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 13,
+      "INP": 4480,
+      "INP_W": 3.700000047683716,
+      "INP_H": 4449.799999952316,
+      "INP_R": 26.5,
+      "LoAFsum": 9081.900000035763,
+      "LoAFcount": 3,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 14,
+      "INP": 4720,
+      "INP_W": 3.300000011920929,
+      "INP_H": 4691.800000011921,
+      "INP_R": 24.899999976158142,
+      "LoAFsum": 9539.999999940395,
+      "LoAFcount": 3,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 15,
+      "INP": 4632,
+      "INP_W": 2.299999952316284,
+      "INP_H": 4604.800000011921,
+      "INP_R": 24.900000035762787,
+      "LoAFsum": 9149.700000047684,
+      "LoAFcount": 3,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    }
+  ]
+}

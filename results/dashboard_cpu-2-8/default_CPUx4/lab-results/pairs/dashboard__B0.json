@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "base": "http://localhost:8000",
+    "reps": 15,
+    "network": {
+      "latencyMs": 300,
+      "downloadMbps": 0.5,
+      "uploadMbps": 0.2
+    },
+    "cpuThrottlingRate": 4,
+    "timestamp": "2025-10-20T18:45:07.517Z"
+  },
+  "scenario": "dashboard",
+  "variant": "B0",
+  "runs": [
+    {
+      "rep": 1,
+      "INP": 48,
+      "INP_W": 1,
+      "INP_H": 3.5,
+      "INP_R": 43.5,
+      "LoAFsum": 545.1999999880791,
+      "LoAFcount": 1,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 2,
+      "INP": 48,
+      "INP_W": 1,
+      "INP_H": 3.300000011920929,
+      "INP_R": 43.69999998807907,
+      "LoAFsum": 556.2999999523163,
+      "LoAFcount": 1,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 3,
+      "INP": 40,
+      "INP_W": 1.2000000476837158,
+      "INP_H": 4.5,
+      "INP_R": 34.299999952316284,
+      "LoAFsum": 551,
+      "LoAFcount": 1,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 4,
+      "INP": 48,
+      "INP_W": 1.800000011920929,
+      "INP_H": 4.199999988079071,
+      "INP_R": 42,
+      "LoAFsum": 553.7999999523163,
+      "LoAFcount": 1,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 5,
+      "INP": 48,
+      "INP_W": 0.19999998807907104,
+      "INP_H": 3.800000011920929,
+      "INP_R": 44,
+      "LoAFsum": 563.6999999880791,
+      "LoAFcount": 1,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 6,
+      "INP": 48,
+      "INP_W": 1.199999988079071,
+      "INP_H": 4.300000011920929,
+      "INP_R": 42.5,
+      "LoAFsum": 554.1999999880791,
+      "LoAFcount": 1,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 7,
+      "INP": 40,
+      "INP_W": 0.5999999642372131,
+      "INP_H": 0,
+      "INP_R": 39.40000003576279,
+      "LoAFsum": 554.6999999880791,
+      "LoAFcount": 1,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 8,
+      "INP": 40,
+      "INP_W": 0.6000000238418579,
+      "INP_H": 0,
+      "INP_R": 39.39999997615814,
+      "LoAFsum": 555.7999999523163,
+      "LoAFcount": 1,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 9,
+      "INP": 40,
+      "INP_W": 1.199999988079071,
+      "INP_H": 4.5,
+      "INP_R": 34.30000001192093,
+      "LoAFsum": 559.7000000476837,
+      "LoAFcount": 1,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 10,
+      "INP": 40,
+      "INP_W": 0.800000011920929,
+      "INP_H": 0,
+      "INP_R": 39.19999998807907,
+      "LoAFsum": 558.1000000238419,
+      "LoAFcount": 1,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 11,
+      "INP": 40,
+      "INP_W": 1.5999999642372131,
+      "INP_H": 0,
+      "INP_R": 38.40000003576279,
+      "LoAFsum": 558.6999999880791,
+      "LoAFcount": 1,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 12,
+      "INP": 48,
+      "INP_W": 1,
+      "INP_H": 3.899999976158142,
+      "INP_R": 43.10000002384186,
+      "LoAFsum": 561.6999999880791,
+      "LoAFcount": 1,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 13,
+      "INP": 40,
+      "INP_W": 1.399999976158142,
+      "INP_H": 3.800000011920929,
+      "INP_R": 34.80000001192093,
+      "LoAFsum": 556.5,
+      "LoAFcount": 1,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 14,
+      "INP": 48,
+      "INP_W": 0.9000000357627869,
+      "INP_H": 4.099999964237213,
+      "INP_R": 43,
+      "LoAFsum": 554.6000000238419,
+      "LoAFcount": 1,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    },
+    {
+      "rep": 15,
+      "INP": 40,
+      "INP_W": 1.199999988079071,
+      "INP_H": 0,
+      "INP_R": 38.80000001192093,
+      "LoAFsum": 551.8999999761581,
+      "LoAFcount": 1,
+      "LoAFsum_500ms": 0,
+      "LoAFcount_500ms": 0,
+      "LoAFany_500ms": 0
+    }
+  ]
+}
