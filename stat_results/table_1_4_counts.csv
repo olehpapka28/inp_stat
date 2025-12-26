@@ -1,0 +1,8 @@
+variant,content,dashboard,form
+I1,0,0,1
+I2,2,4,4
+I2+I3,3,4,4
+I2+I3+I4,3,4,4
+I2+I4,3,4,4
+I3,0,0,1
+I5,0,2,0

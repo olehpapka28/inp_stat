@@ -1,0 +1,223 @@
+Дерево проєкту: D:\Projects\scopus\stat
+
+├── requirements.txt
+├── results
+│   ├── content_cpu-2-8
+│   │   ├── default_CPUx2
+│   │   │   ├── lab-results
+│   │   │   │   └── pairs
+│   │   │   │       ├── content__B0.json
+│   │   │   │       ├── content__I1.json
+│   │   │   │       ├── content__I2+I3+I4.json
+│   │   │   │       ├── content__I2+I3.json
+│   │   │   │       ├── content__I2+I4.json
+│   │   │   │       ├── content__I2.json
+│   │   │   │       ├── content__I3+I4.json
+│   │   │   │       ├── content__I3.json
+│   │   │   │       └── content__I4.json
+│   │   │   ├── lab-results.aggregates.json
+│   │   │   ├── lab-results.by-variant.json
+│   │   │   └── lab-results.json
+│   │   ├── default_CPUx4
+│   │   │   ├── lab-results
+│   │   │   │   └── pairs
+│   │   │   │       ├── content__B0.json
+│   │   │   │       ├── content__I1.json
+│   │   │   │       ├── content__I2+I3+I4.json
+│   │   │   │       ├── content__I2+I3.json
+│   │   │   │       ├── content__I2+I4.json
+│   │   │   │       ├── content__I2.json
+│   │   │   │       ├── content__I3+I4.json
+│   │   │   │       ├── content__I3.json
+│   │   │   │       └── content__I4.json
+│   │   │   ├── lab-results.aggregates.json
+│   │   │   ├── lab-results.by-variant.json
+│   │   │   └── lab-results.json
+│   │   ├── default_CPUx6
+│   │   │   ├── lab-results
+│   │   │   │   └── pairs
+│   │   │   │       ├── content__B0.json
+│   │   │   │       ├── content__I1.json
+│   │   │   │       ├── content__I2+I3+I4.json
+│   │   │   │       ├── content__I2+I3.json
+│   │   │   │       ├── content__I2+I4.json
+│   │   │   │       ├── content__I2.json
+│   │   │   │       ├── content__I3+I4.json
+│   │   │   │       ├── content__I3.json
+│   │   │   │       └── content__I4.json
+│   │   │   ├── lab-results.aggregates.json
+│   │   │   ├── lab-results.by-variant.json
+│   │   │   └── lab-results.json
+│   │   └── default_CPUx8
+│   │       ├── lab-results
+│   │       │   └── pairs
+│   │       │       ├── content__B0.json
+│   │       │       ├── content__I1.json
+│   │       │       ├── content__I2+I3+I4.json
+│   │       │       ├── content__I2+I3.json
+│   │       │       ├── content__I2+I4.json
+│   │       │       ├── content__I2.json
+│   │       │       ├── content__I3+I4.json
+│   │       │       ├── content__I3.json
+│   │       │       └── content__I4.json
+│   │       ├── lab-results.aggregates.json
+│   │       ├── lab-results.by-variant.json
+│   │       └── lab-results.json
+│   ├── dashboard_cpu-2-8
+│   │   ├── default_CPUx2
+│   │   │   ├── dashboardcpu-2.xlsx
+│   │   │   ├── lab-results
+│   │   │   │   └── pairs
+│   │   │   │       ├── dashboard__B0.json
+│   │   │   │       ├── dashboard__I1.json
+│   │   │   │       ├── dashboard__I2+I3+I4.json
+│   │   │   │       ├── dashboard__I2+I3.json
+│   │   │   │       ├── dashboard__I2+I4.json
+│   │   │   │       ├── dashboard__I2.json
+│   │   │   │       ├── dashboard__I3+I4.json
+│   │   │   │       ├── dashboard__I3.json
+│   │   │   │       ├── dashboard__I4.json
+│   │   │   │       └── dashboard__I5.json
+│   │   │   ├── lab-results.aggregates.json
+│   │   │   ├── lab-results.by-variant.json
+│   │   │   ├── lab-results.json
+│   │   │   └── ~$dashboardcpu-2.xlsx
+│   │   ├── default_CPUx4
+│   │   │   ├── lab-results
+│   │   │   │   └── pairs
+│   │   │   │       ├── dashboard__B0.json
+│   │   │   │       ├── dashboard__I1.json
+│   │   │   │       ├── dashboard__I2+I3+I4.json
+│   │   │   │       ├── dashboard__I2+I3.json
+│   │   │   │       ├── dashboard__I2+I4.json
+│   │   │   │       ├── dashboard__I2.json
+│   │   │   │       ├── dashboard__I3+I4.json
+│   │   │   │       ├── dashboard__I3.json
+│   │   │   │       ├── dashboard__I4.json
+│   │   │   │       └── dashboard__I5.json
+│   │   │   ├── lab-results.aggregates.json
+│   │   │   ├── lab-results.by-variant.json
+│   │   │   └── lab-results.json
+│   │   ├── default_CPUx6
+│   │   │   ├── lab-results
+│   │   │   │   └── pairs
+│   │   │   │       ├── dashboard__B0.json
+│   │   │   │       ├── dashboard__I1.json
+│   │   │   │       ├── dashboard__I2+I3+I4.json
+│   │   │   │       ├── dashboard__I2+I3.json
+│   │   │   │       ├── dashboard__I2+I4.json
+│   │   │   │       ├── dashboard__I2.json
+│   │   │   │       ├── dashboard__I3+I4.json
+│   │   │   │       ├── dashboard__I3.json
+│   │   │   │       ├── dashboard__I4.json
+│   │   │   │       └── dashboard__I5.json
+│   │   │   ├── lab-results.aggregates.json
+│   │   │   ├── lab-results.by-variant.json
+│   │   │   └── lab-results.json
+│   │   └── default_CPUx8
+│   │       ├── lab-results
+│   │       │   └── pairs
+│   │       │       ├── dashboard__B0.json
+│   │       │       ├── dashboard__I1.json
+│   │       │       ├── dashboard__I2+I3+I4.json
+│   │       │       ├── dashboard__I2+I3.json
+│   │       │       ├── dashboard__I2+I4.json
+│   │       │       ├── dashboard__I2.json
+│   │       │       ├── dashboard__I3+I4.json
+│   │       │       ├── dashboard__I3.json
+│   │       │       ├── dashboard__I4.json
+│   │       │       └── dashboard__I5.json
+│   │       ├── lab-results.aggregates.json
+│   │       ├── lab-results.by-variant.json
+│   │       └── lab-results.json
+│   └── form_cpu-2-8
+│       ├── default_CPUx2
+│       │   ├── lab-results
+│       │   │   └── pairs
+│       │   │       ├── form__B0.json
+│       │   │       ├── form__I1.json
+│       │   │       ├── form__I2+I3+I4.json
+│       │   │       ├── form__I2+I3.json
+│       │   │       ├── form__I2+I4.json
+│       │   │       ├── form__I2.json
+│       │   │       ├── form__I3+I4.json
+│       │   │       ├── form__I3.json
+│       │   │       └── form__I4.json
+│       │   ├── lab-results.aggregates.json
+│       │   ├── lab-results.by-variant.json
+│       │   └── lab-results.json
+│       ├── default_CPUx4
+│       │   ├── lab-results
+│       │   │   └── pairs
+│       │   │       ├── form__B0.json
+│       │   │       ├── form__I1.json
+│       │   │       ├── form__I2+I3+I4.json
+│       │   │       ├── form__I2+I3.json
+│       │   │       ├── form__I2+I4.json
+│       │   │       ├── form__I2.json
+│       │   │       ├── form__I3+I4.json
+│       │   │       ├── form__I3.json
+│       │   │       └── form__I4.json
+│       │   ├── lab-results.aggregates.json
+│       │   ├── lab-results.by-variant.json
+│       │   └── lab-results.json
+│       ├── default_CPUx6
+│       │   ├── lab-results
+│       │   │   └── pairs
+│       │   │       ├── form__B0.json
+│       │   │       ├── form__I1.json
+│       │   │       ├── form__I2+I3+I4.json
+│       │   │       ├── form__I2+I3.json
+│       │   │       ├── form__I2+I4.json
+│       │   │       ├── form__I2.json
+│       │   │       ├── form__I3+I4.json
+│       │   │       ├── form__I3.json
+│       │   │       └── form__I4.json
+│       │   ├── lab-results.aggregates.json
+│       │   ├── lab-results.by-variant.json
+│       │   └── lab-results.json
+│       └── default_CPUx8
+│           ├── lab-results
+│           │   └── pairs
+│           │       ├── form__B0.json
+│           │       ├── form__I1.json
+│           │       ├── form__I2+I3+I4.json
+│           │       ├── form__I2+I3.json
+│           │       ├── form__I2+I4.json
+│           │       ├── form__I2.json
+│           │       ├── form__I3+I4.json
+│           │       ├── form__I3.json
+│           │       └── form__I4.json
+│           ├── lab-results.aggregates.json
+│           ├── lab-results.by-variant.json
+│           └── lab-results.json
+├── stat_results
+│   ├── charts
+│   │   ├── boxplot_content_CPUx2.png
+│   │   ├── boxplot_content_CPUx4.png
+│   │   ├── boxplot_content_CPUx6.png
+│   │   ├── boxplot_content_CPUx8.png
+│   │   ├── boxplot_dashboard_CPUx2.png
+│   │   ├── boxplot_dashboard_CPUx4.png
+│   │   ├── boxplot_dashboard_CPUx6.png
+│   │   ├── boxplot_dashboard_CPUx8.png
+│   │   ├── boxplot_form_CPUx2.png
+│   │   ├── boxplot_form_CPUx4.png
+│   │   ├── boxplot_form_CPUx6.png
+│   │   ├── boxplot_form_CPUx8.png
+│   │   ├── ecdf_content_CPUx2.png
+│   │   ├── ecdf_content_CPUx4.png
+│   │   ├── ecdf_content_CPUx6.png
+│   │   ├── ecdf_content_CPUx8.png
+│   │   ├── ecdf_dashboard_CPUx2.png
+│   │   ├── ecdf_dashboard_CPUx4.png
+│   │   ├── ecdf_dashboard_CPUx6.png
+│   │   ├── ecdf_dashboard_CPUx8.png
+│   │   ├── ecdf_form_CPUx2.png
+│   │   ├── ecdf_form_CPUx4.png
+│   │   ├── ecdf_form_CPUx6.png
+│   │   └── ecdf_form_CPUx8.png
+│   ├── mw_results.csv
+│   ├── raw_interactions.csv
+│   └── summary_by_group.csv
+└── stats_pipeline.py
